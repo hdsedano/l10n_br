@@ -1,0 +1,109 @@
+---
+- name: Acre
+  country_id: '28'
+  id: '101'
+  abbr: AC
+- name: Alagoas
+  country_id: '28'
+  id: '102'
+  abbr: AL
+- name: Amapá
+  country_id: '28'
+  id: '103'
+  abbr: AP
+- name: Amazonas
+  country_id: '28'
+  id: '104'
+  abbr: AM
+- name: Bahia
+  country_id: '28'
+  id: '105'
+  abbr: BA
+- name: Ceará
+  country_id: '28'
+  id: '106'
+  abbr: CE
+- name: Distrito Federal
+  country_id: '28'
+  id: '107'
+  abbr: DF
+- name: Espírito Santo
+  country_id: '28'
+  id: '108'
+  abbr: ES
+- name: Goiás
+  country_id: '28'
+  id: '109'
+  abbr: GO
+- name: Maranhão
+  country_id: '28'
+  id: '110'
+  abbr: MA
+- name: Mato Grosso
+  country_id: '28'
+  id: '111'
+  abbr: MT
+- name: Mato Grosso do Sul
+  country_id: '28'
+  id: '112'
+  abbr: MS
+- name: Minas Gerais
+  country_id: '28'
+  id: '113'
+  abbr: MG
+- name: Pará
+  country_id: '28'
+  id: '114'
+  abbr: PA
+- name: Paraíba
+  country_id: '28'
+  id: '115'
+  abbr: PB
+- name: Paraná
+  country_id: '28'
+  id: '116'
+  abbr: PR
+- name: Pernambuco
+  country_id: '28'
+  id: '117'
+  abbr: PE
+- name: Piauí
+  country_id: '28'
+  id: '118'
+  abbr: PI
+- name: Rio de Janeiro
+  country_id: '28'
+  id: '119'
+  abbr: RJ
+- name: Rio Grande do Norte
+  country_id: '28'
+  id: '120'
+  abbr: RN
+- name: Rio Grande do Sul
+  country_id: '28'
+  id: '121'
+  abbr: RS
+- name: Rondônia
+  country_id: '28'
+  id: '122'
+  abbr: RO
+- name: Roraima
+  country_id: '28'
+  id: '123'
+  abbr: RR
+- name: Santa Catarina
+  country_id: '28'
+  id: '124'
+  abbr: SC
+- name: São Paulo
+  country_id: '28'
+  id: '125'
+  abbr: SP
+- name: Sergipe
+  country_id: '28'
+  id: '126'
+  abbr: SE
+- name: Tocantins
+  country_id: '28'
+  id: '127'
+  abbr: TO
